@@ -5,7 +5,7 @@
   "scripts": {
     "start": "nx serve shell"
   },
-  "packageManager": "^pnpm@10.0.0",
+  "packageManager": "pnpm@10.0.0",
   "private": true,
   "dependencies": {
     "@angular/common": "~19.2.0",
